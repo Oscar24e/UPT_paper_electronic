@@ -28,7 +28,7 @@
 
         <div class="logo plain logo-left">
             <div class="site-title">
-                <a href="index.html" title="Go to Home">UPT Paper-Electronic</a>
+                <a href="index.php" title="Go to Home">UPT Paper-Electronic</a>
             </div>
         </div><!-- /logo -->
 
@@ -80,6 +80,10 @@
                                Sistemas de Información </a>
                         </h2>
                         <div class="post-content">
+                            <p>Son un conjunto de componentes que interactuan entre si con un fin comun, 
+                                para procesar los datos y dan lugar a informacion mas elaborada que se 
+                                distribuye de manera mas adecuada posibles en una determinada organizacion</p>
+
                             <p>•Hardware: los sistemas utilizan hardware local como una computadora o servicios de Nube para su ejecución.</p>
                             <p>•Red: se deben conectar diferentes recursos entre sí, especialmente si muchas personas diferentes en una organización usan el mismo sistema.</p>
                             <p>•Software: estos son los programas utilizados para administración, procesamiento y análisis.</p>
@@ -220,8 +224,8 @@
                         <h2 class="entry-title">
                             <p></p>
                             <a 
-                               title="sistemas de computadoras centrales y dedicadas">
-                               sistemas de conexión libre y a través de redes </a>
+                               title="Sistemas de conexión libre y a través de redes">
+                               Sistemas de conexión libre y a través de redes </a>
                         </h2>
                         <div class="post-content">
                             <p><center><h3>Conexión libre</h3></center></p>
@@ -243,6 +247,52 @@
                     </div>
                 </article>
 
+
+                <article class="post format-image has-post-thumbnail post_format-post-format-image">
+                <a 
+                       title="Sistemas">
+                        <div class="part-gallery">
+                            <div class="flexslider">
+                                <ul class="slides">
+                                    <li><span class="post-image"><img src="images/cliente.jpg"
+                                                                      alt="cliente"/></span></li>
+                                    <li><span class="post-image"><img src="images/servidor.jpg"
+                                                                      alt="servidor"/></span></li>
+                                </ul>
+                            </div>
+                        </div>
+
+                    </a>
+                    <div class="">
+                        <h2 class="entry-title">
+                            <p></p>
+                            <a 
+                               title="sistemas con la arquitectura Cliente/servidor">
+                               sistemas con la arquitectura Cliente/servidor </a>
+                        </h2>
+                        <div class="post-content">
+
+                            <p><center><h3>Arquitectura cliente-servidor</h3></center></p>
+
+                            <p>En esta arquitectura la computadora de cada uno de los usuarios, llamada cliente, 
+                                produce una demanda de información a cualquiera de las computadoras que proporcionan 
+                                información, conocidas como servidores estos últimos responden a la demanda del cliente
+                                 que la produjo. Los clientes y los servidores pueden estar conectados a una red local 
+                                 o una red amplia, como la que se puede implementar en una empresa o a una red mundial 
+                                 como lo es la Internet. Bajo este modelo cada usuario tiene la libertad de obtener la 
+                                 información que requiera en un momento dado proveniente de una o varias fuentes locales
+                                  o distantes y de procesarla como según le convenga. Los distintos servidores también 
+                                  pueden intercambiar información dentro de esta arquitectura.</p>
+
+                            <ul class="meta bottom">
+                            <li class="cat post-tags">Siguiente: <a
+                                    href="pag2.php">Pagina</a>,
+                            </li>
+                        </ul>
+
+                        </div>
+                    </div>
+                </article>
             </div>
 
 
