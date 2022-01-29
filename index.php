@@ -49,7 +49,7 @@
 </header>
 
 
-<div class="hero" style="background-image: url('images/lead.jpg'); text-align:right;">
+<div class="hero" style="background-image: url('images/principal.jpg'); text-align:right;">
     <div class="hero-inner">
         <div class="inner">
             <h1><span class="border border-top border-bottom">UPT P&E</span></h1>
