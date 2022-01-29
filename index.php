@@ -54,7 +54,8 @@
         <div class="inner">
             <h1><span class="border border-top border-bottom">UPT P&E</span></h1>
             <div class="hero-line-one"></div>
-            <div class="hero-line-two"><span class="border border-bottom"><a href="https://freehtml5.co" style="color:rgb(224, 90, 0);">by Oscar and Alejandra</a></span></div>
+            <div class="hero-line-two"><span class="border border-bottom">
+                <a href="https://freehtml5.co" style="color:rgb(224, 90, 0);">by Oscar</a></span></div>
         </div>
 
         <a class="more-arrow" href="#content"><i class="fa fa-chevron-down"></i><span>Scroll Down</span></a>
@@ -70,9 +71,10 @@
 
                 <article class="post format-gallery post_format-post-format-gallery">
 
-                    <div class="inner">
+                    <div class="">
 
                         <h2 class="entry-title">
+                            <p></p>
                             <a 
                                title="Sistemas de Información">
                                Sistemas de Información </a>
@@ -103,7 +105,8 @@
                         </div>
 
                     </a>
-                    <div class="inner">
+                    <div class="">
+                        <p></p>
                         <h2 class="entry-title">
                             <a
                                title="Evolución de los sistemas de información ">
@@ -124,286 +127,121 @@
 
 
                 <article class="post format-image has-post-thumbnail post_format-post-format-image">
-
-
-
-
   		            <span class="post-image">
-  			  				<a href="#" title="Camper Van Fun">
+  			  				<a title="Camper Van Fun">
   			  				    <img width="916" height="611" src="images/Camper-2.jpg"
                                      class="attachment-desktop size-desktop" alt=""/>
                             </a>
-
   		            </span>
-
-
-                    <div class="inner">
-
+                    <div class="">
+                        <p></p>
                         <h2 class="entry-title">
-                            <a href="#"
+                            <a 
                                title="Camper Van Fun">
-                                Camper Van Fun </a>
+                               Cliente servidor </a>
                         </h2>
-                        <ul class="meta top">
-                            <li class="time">
-                                <a href="#"
-                                   title="Camper Van Fun">
-                                    <time class="post-date updated" datetime="2014-10-06">October 6, 2014</time>
-                                </a></li>
-
-                            <li class="comments post-tags">
-                                <a href="#">0
-                                    Comments</a></li>
-
-                            <li class="author-m post-tags">
-                                By <span class="vcard author post-author"><span class="fn"><a
-                                    href="#"
-                                    title="Posts by Clare Smith" rel="author">Clare Smith</a></span></span>
-                            </li>
-
-                        </ul>
                         <div class="post-content">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at risus at lacus laoreet
-                                mollis sed id elit. Integer bibendum lobortis velit, eleifend commodo dui facilisis nec.
-                                Aliquam mi sapien, ultrices a ultrices non, sodales ut diam. Fusce semper risus eu magna
-                                placerat pulvinar. Nullam ac odio non ligula semper auctor. Fusce semper risus eu magna
-                                placerat pulvinar. <a
-                                        href="#"
-                                        class="more-link">Read More</a></p>
+                            <p>Sistema distribuido entre múltiples Procesadores donde hay clientes 
+                                que solicitan servicios y servidores que los proporcionan La Tecnología Cliente/Servidor, 
+                                es un modelo que implica productos y servicios enmarcados en el uso de la Tecnología de 
+                                punta, y que permite la distribución de la información en forma ágil y eficaz a las diversas 
+                                áreas de una organización (empresa o institución pública o privada), así como también fuera 
+                                de ella</p>
+                                <p>Las funciones que lleva a cabo el proceso cliente se resumen en los siguientes Puntos</p>
+                                <p><center>• Administrar la interfaz de usuario.</center></p>
+                                <p><center>• Interactuar con el usuario.</center></p>
+                                <p><center>• Generar requerimientos de bases de datos.</center></p>
+                                <p><center>• Formatear resultados.</center></p>
                         </div>
-
-
-                        <ul class="meta bottom">
-
-                            <li class="cat post-tags">Saved: <a
-                                    href="#">Blog</a>,
-                                <a href="#">Fun</a>
-                            </li>
-
-                        </ul>
                     </div>
                 </article>
 
 
-                <article class="post format-quote has-post-thumbnail post_format-post-format-quote">
+                <article class="post format-image has-post-thumbnail post_format-post-format-image">
+                <a 
+                       title="Sistemas">
+                        <div class="part-gallery">
+                            <div class="flexslider">
+                                <ul class="slides">
+                                    <li><span class="post-image"><img src="images/centrales.jpg"
+                                                                      alt="centrales"/></span></li>
+                                    <li><span class="post-image"><img src="images/dedicadas.jpg"
+                                                                      alt="dedicadas"/></span></li>
+                                </ul>
+                            </div>
+                        </div>
 
-
-                    <div class="inner">
-
+                    </a>
+                    <div class="">
                         <h2 class="entry-title">
-                            <a href="#"
-                               title="A lovely Quote">
-                                A lovely Quote </a>
+                            <p></p>
+                            <a 
+                               title="sistemas de computadoras centrales y dedicadas">
+                               Sistemas de computadoras centrales y dedicadas </a>
                         </h2>
-                        <ul class="meta top">
-                            <li class="time">
-                                <a href="#"
-                                   title="A lovely Quote">
-                                    <time class="post-date updated" datetime="2014-10-01">October 1, 2014</time>
-                                </a></li>
-
-                            <li class="comments post-tags">
-                                <a href="#">0
-                                    Comments</a></li>
-
-                            <li class="author-m post-tags">
-                                By <span class="vcard author post-author"><span class="fn"><a
-                                    href="#"
-                                    title="Posts by Clare Smith" rel="author">Clare Smith</a></span></span>
-                            </li>
-
-                        </ul>
                         <div class="post-content">
-                            <blockquote class="content-quote">
-                                <p>There are always two people in every picture: the photographer and the viewer.</p>
-                                <cite>Ansel Adams</cite>
-                            </blockquote>
+                            <p><center><h3>Computadora central</h3></center></p>
+                            <p>Es una computadora grande, potente y costosa, usada principalmente por una gran 
+                                compañía para el procesamiento de una gran cantidad de datos; por ejemplo, para 
+                                el procesamiento de transacciones bancarias.</p>
+                                <p>
+                                La capacidad de una computadora central se define tanto por la velocidad de su CPU 
+                                como por su gran memoria interna, su alta y gran capacidad de almacenamiento externo, 
+                                sus resultados en los dispositivo E/S rápidos y considerables, la alta calidad de su 
+                                ingeniería interna que tiene como consecuencia una alta fiabilidad y soporte técnico 
+                                caro pero de alta calidad.</p>
+
+                            <p><center><h3>Computadora dedicada</h3></center></p>
+                            <p>Es un equipo informático físico que destina todos sus recursos a proporcionar información
+                                 y atender las peticiones de otro ordenador (cliente) que ha contratado sus servicios. 
+                                 Por tanto, a diferencia de un servidor compartido, el dedicado trabaja en exclusiva para
+                                  un solo cliente. </p>
                         </div>
-
-
-                        <ul class="meta bottom">
-
-                            <li class="cat post-tags">Saved: <a
-                                    href="#">Blog</a>,
-                                <a href="#">Fun</a>
-                            </li>
-
-                        </ul>
-
                     </div>
                 </article>
 
 
-                <article class="post format-video has-post-thumbnail post_format-post-format-video">
+                <article class="post format-image has-post-thumbnail post_format-post-format-image">
+                <a 
+                       title="Sistemas">
+                        <div class="part-gallery">
+                            <div class="flexslider">
+                                <ul class="slides">
+                                    <li><span class="post-image"><img src="images/conexion.jpg"
+                                                                      alt="conexion"/></span></li>
+                                    <li><span class="post-image"><img src="images/cooo.jpg"
+                                                                      alt="cooo"/></span></li>
+                                </ul>
+                            </div>
+                        </div>
 
-
-			        <span class="post-image post-video">
-                        <div class="fluid-width-video-wrapper" style="padding-top: 56.25%;"><iframe
-                                src="https://player.vimeo.com/video/33091687?portrait=0" frameborder="0" webkitallowfullscreen=""
-                                mozallowfullscreen="" allowfullscreen=""></iframe></div>
-                    </span>
-
-                    <div class="inner">
-
+                    </a>
+                    <div class="">
                         <h2 class="entry-title">
-                            <a href="#"
-                               title="What a video">
-                                What a video </a>
+                            <p></p>
+                            <a 
+                               title="sistemas de computadoras centrales y dedicadas">
+                               sistemas de conexión libre y a través de redes </a>
                         </h2>
-                        <ul class="meta top">
-                            <li class="time">
-                                <a href="#"
-                                   title="What a video">
-                                    <time class="post-date updated" datetime="2014-08-31">August 31, 2014</time>
-                                </a></li>
-
-                            <li class="comments post-tags">
-                                <a href="#">0
-                                    Comments</a></li>
-
-                            <li class="author-m post-tags">
-                                By <span class="vcard author post-author"><span class="fn"><a
-                                    href="#"
-                                    title="Posts by Clare Smith" rel="author">Clare Smith</a></span></span>
-                            </li>
-
-                        </ul>
                         <div class="post-content">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at risus at lacus laoreet
-                                mollis sed id elit. Integer bibendum lobortis velit, eleifend commodo dui facilisis nec.
-                                Aliquam mi sapien, ultrices a ultrices non, sodales ut diam. Fusce semper risus eu magna
-                                placerat pulvinar. Nullam ac odio non ligula semper auctor. Fusce semper risus eu magna
-                                placerat pulvinar. <a
-                                        href="#"
-                                        class="more-link">Read More</a></p>
+                            <p><center><h3>Conexión libre</h3></center></p>
+
+                            <p> En muchos de los casos el usuario obtiene la información que necesita de alguna 
+                                computadora de servicio. Estas computadoras de escritorio se conectan a las computadoras 
+                                de servicio empleando software que permite la emulación de algún tipo de terminal. 
+                                En otros de los casos se les transfiere la información haciendo uso de recursos 
+                                magnéticos o por trascripción.</p>
+
+                            <p><center><h3>Cómputo a través de redes</h3></center></p>
+
+                            <p>Esta es la era que esta basada en el concepto de redes de computadoras, en la que la 
+                                información reside en una o varias computadoras, los usuarios de esta información hacen 
+                                uso de computadoras para laborar y todas ellas se encuentran conectadas entre si. 
+                                Esto brinda la posibilidad de que todos los usuarios puedan acceder a la información de 
+                                todas las computadoras y a la vez que los diversos sistemas intercambien información.</p>
                         </div>
-
-
-                        <ul class="meta bottom">
-
-                            <li class="cat post-tags">Saved: <a
-                                    href="#">Blog</a>,
-                                <a href="#">Fitness</a>,
-                                <a href="#">Fun</a>
-                            </li>
-
-                        </ul>
-
                     </div>
                 </article>
-
-
-                <article class="post has-post-thumbnail">
-
-
-                    <div class="inner">
-
-                        <h2 class="entry-title">
-                            <a href="#"
-                               title="As an aside">
-                                As an aside </a>
-                        </h2>
-                        <ul class="meta top">
-                            <li class="time">
-                                <a href="#"
-                                   title="As an aside">
-                                    <time class="post-date updated" datetime="2014-06-02">June 2, 2014</time>
-                                </a></li>
-
-                            <li class="comments post-tags">
-                                <a href="#">0
-                                    Comments</a></li>
-
-                            <li class="author-m post-tags">
-                                By <span class="vcard author post-author"><span class="fn"><a
-                                    href="#"
-                                    title="Posts by Clare Smith" rel="author">Clare Smith</a></span></span>
-                            </li>
-
-                        </ul>
-                        <div class="post-content">
-                            <p style="text-align: center">Sometimes days seem long sometimes they seem short.</p>
-                        </div>
-
-
-                        <ul class="meta bottom">
-
-                            <li class="cat post-tags">Saved: <a
-                                    href="#">Blog</a>
-                            </li>
-
-                        </ul>
-
-                    </div>
-                </article>
-
-                <article class="post has-post-thumbnail">
-
-
-
-
-  		            <span class="post-image">
-  			  				<a href="#" title="The Flower Shop">
-  			  				    <img width="916" height="611"
-                                     src="images/Flower-Shop.jpg"
-                                     class="attachment-desktop size-desktop" alt=""/>
-                            </a>
-  		            </span>
-
-
-                    <div class="inner">
-
-                        <h2 class="entry-title">
-                            <a href="#"
-                               title="The Flower Shop">
-                                The Flower Shop </a>
-                        </h2>
-                        <ul class="meta top">
-                            <li class="time">
-                                <a href="#"
-                                   title="The Flower Shop">
-                                    <time class="post-date updated" datetime="2014-05-02">May 2, 2014</time>
-                                </a></li>
-
-                            <li class="comments post-tags">
-                                <a href="#">0
-                                    Comments</a></li>
-
-                            <li class="author-m post-tags">
-                                By <span class="vcard author post-author"><span class="fn"><a
-                                    href="#"
-                                    title="Posts by Clare Smith" rel="author">Clare Smith</a></span></span>
-                            </li>
-
-                        </ul>
-                        <div class="post-content">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at risus at lacus laoreet
-                                mollis sed id elit. Integer bibendum lobortis velit, eleifend commodo dui facilisis nec.
-                                Aliquam mi sapien, ultrices a ultrices non, sodales ut diam. Fusce semper risus eu magna
-                                placerat pulvinar. Nullam ac odio non ligula semper auctor. Fusce semper risus eu magna
-                                placerat pulvinar.</p>
-                            <blockquote><p>“There are always two people in every picture: the photographer and the
-                                viewer.”<cite>Ansel Adams</cite></p></blockquote>
-                            <p>Nullam ac odio non ligula semper auctor. Fusce semper risus eu magna placerat pulvinar.
-                                Nullam ac odio non ligula semper auctor. Aenean at dui dui, non scelerisque nisi. Morbi
-                                ullamcorper dapibus nisl, ullamcorper fringilla eros pulvinar et. <a
-                                        href="#"
-                                        class="more-link">Read More</a></p>
-                        </div>
-
-
-                        <ul class="meta bottom">
-
-                            <li class="cat post-tags">Saved: <a
-                                    href="#">Blog</a>,
-                                <a href="#"
-                                   rel="category tag">Cute</a></li>
-
-                        </ul>
-
-                    </div>
-                </article>
-
 
             </div>
 
