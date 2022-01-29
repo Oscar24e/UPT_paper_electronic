@@ -94,10 +94,10 @@
                         <div class="part-gallery">
                             <div class="flexslider">
                                 <ul class="slides">
-                                    <li><span class="post-image"><img src="images/Run-1.jpg"
-                                                                      alt="Run-1"/></span></li>
-                                    <li><span class="post-image"><img src="images/Run-2.jpg"
-                                                                      alt="Run-2"/></span></li>
+                                    <li><span class="post-image"><img src="images/Runin-1.jpg"
+                                                                      alt="Runin-1"/></span></li>
+                                    <li><span class="post-image"><img src="images/Runin-2.jpg"
+                                                                      alt="Runin-2"/></span></li>
                                 </ul>
                             </div>
                         </div>
