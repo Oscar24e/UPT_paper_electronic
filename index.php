@@ -55,7 +55,7 @@
             <h1><span class="border border-top border-bottom">UPT P&E</span></h1>
             <div class="hero-line-one"></div>
             <div class="hero-line-two"><span class="border border-bottom">
-                <a href="https://freehtml5.co" style="color:rgb(224, 90, 0);">by Oscar</a></span></div>
+                <a href="https://freehtml5.co" style="color:rgb(224, 90, 0);">by Oscar & Ale</a></span></div>
         </div>
 
         <a class="more-arrow" href="#content"><i class="fa fa-chevron-down"></i><span>Scroll Down</span></a>

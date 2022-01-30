@@ -93,8 +93,8 @@
                         <div class="part-gallery">
                             <div class="flexslider">
                                 <ul class="slides">
-                                    <li><span class="post-image"><img src="images/proto.jpg"
-                                                                      alt="proto"/></span></li>
+                                    <li><span class="post-image"><img src="images/seguri.jpg"
+                                                                      alt="seguri"/></span></li>
                                     
                                 </ul>
                             </div>
@@ -109,12 +109,49 @@
                                Sistemas de información de acuerdo a su arquitectura</a>
                         </h2>
                         <div class="post-content">
-                            <p> <center><h6>1950 - 1960</h6></center> Procesamiento de datos: Recopila, almacena, modifica y recupera transacciones cotidianas de una organización</p>
-                            <p><center><h6>1960 - 1970</h6></center>Informes de gestión: Informes y pantallas preespecificados para apoyar la toma de decisiones empresariales</p>
-                            <p><center><h6>1970 - 1980</h6></center>Apoyo a las decisiones: Soporte ad-hoc interactivo para el proceso de toma de decisiones</p>
-                            <p><center><h6>1980 - 1990</h6></center>Apoyo Ejecutivo: Proporcione información interna y externa relevante para los objetivos estratégicos de la organización</p>
-                            <p><center><h6>1990 - 2000</h6></center>Conocimiento administrativo: Apoya la creación, organización y diseminación del conocimiento empresarial</p>
-                            <p><center><h6>2000 - presente</h6></center>E-Business: Mayor conectividad, mayor nivel de integración en todas las aplicaciones</p>
+                            <p> <center><h6>Monopuesto–Monousuario.</h6></center>
+                            Aunque es muy obvio, lo incluyo como primer tipo porque me 
+                            preguntan con cierta frecuencia si instalar mi programa de gestión documental 
+                            (Archívate) para tener en casa, para un único ordenador. </p>
+
+                            <p><center><h6>Cliente-Servidor.</h6></center>
+                            Este es el caso más corriente en PYMES. Hay un «ordenador central», un servidor, 
+                            en el que se almacenan todos los documentos (archivos) y 5, 10…25 usuarios acceden 
+                            desde sus ordenadores, conectados en red local, a consultar y añadir documentos a la 
+                            base de datos común. En el servidor debe haber un gestor de base de datos, como Oracle, 
+                            SQL Server, MySQL o algún otro.</p>
+
+                            <p><center><h6>Servidor-Clientes Web</h6></center>
+                            Podemos considerar esta opción una evolución de la anterior que solo se distingue 
+                            porque en los puestos de trabajo no hay que instarla un «software cliente» específico 
+                            para acceder a los datos sino que se utiliza un simple navegador Web (Internet Explorer, 
+                            FireFox, Chrome o Safari) que suele estar instalado en todos los ordenadores</p>
+                            
+                            <p><center><h6>Cliente-Servidor + Clientes Web.</h6></center>
+                            Una arquitectura mixta que suma lo mejor de las dos anteriores. 
+                            Tenemos un servidor con los datos, algunos usuarios acceden con software específico 
+                            y el resto con un navegador Web. Permite la instalación de un software específico, potente 
+                            y ágil, para los usuarios que utilizan frecuentemente el software de gestión y proporciona 
+                            acceso a docenas o cientos de usuarios esporádicos sin necesidad de instalar el programa en 
+                            cada uno de esos cientos de ordenadores.</p>
+
+                            <p><center><h6>Cliente-Servidor + Clientes Web + Acceso remoto.</h6></center>
+                            Es una evolución de la anterior a la que se suma el acceso desde el exterior (Internet) 
+                            utilizando portátiles, tabletas (iPad), teléfonos móviles o simplemente un ordenador 
+                            conectado a Internet</p>
+
+                            <p><center><h6>Oficinas interconectadas en modo Cliente-Servidor + Cliente Web</h6></center>
+                            Si la empresa tiene varias oficinas en localizaciones distintas (en la misma ciudad o en 
+                            cualquier lugar del mundo), puede utilizar la infraestructura anterior para conectarse, 
+                            no solo desde dispositivos móviles, sino desde las redes locales de cualquier oficina al 
+                            servidor «central» en el que están los datos.</p>
+
+                            <p><center><h6>Cloud Computing</h6></center>Es una variante de cualquiera de los casos 
+                            anteriores, pero con el servidor «en la nube» en lugar de estar físicamente en la oficina 
+                            de la empresa. Ya no hablamos de servidor en red local, sino de servidor «remoto», aunque 
+                            para los usuarios debe ser indiferente que el servidor esté en la habitación de al lado o 
+                            en un CPD (centro de proceso de datos) de Irlanda. Tiene un gran atractivo porque la empresa 
+                            se desentiende del mantenimiento del servidor, incluyendo su ampliación si se </p>
                         </div>
                         <ul class="meta top">
                         </ul>
@@ -125,7 +162,7 @@
                 <article class="post format-image has-post-thumbnail post_format-post-format-image">
   		            <span class="post-image">
   			  				<a title="Camper Van Fun">
-  			  				    <img width="916" height="611" src="images/Camper-2.jpg"
+  			  				    <img width="916" height="611" src="images/bin.jpg"
                                      class="attachment-desktop size-desktop" alt=""/>
                             </a>
   		            </span>
@@ -137,19 +174,15 @@
                                proceso de diagramación de componentes de la arquitectura Cliente/servidor </a>
                         </h2>
                         <div class="post-content">
-                            <p>Sistema distribuido entre múltiples Procesadores donde hay clientes 
-                                que solicitan servicios y servidores que los proporcionan La Tecnología Cliente/Servidor, 
-                                es un modelo que implica productos y servicios enmarcados en el uso de la Tecnología de 
-                                punta, y que permite la distribución de la información en forma ágil y eficaz a las diversas 
-                                áreas de una organización (empresa o institución pública o privada), así como también fuera 
-                                de ella</p>
-                                <p>Las funciones que lleva a cabo el proceso cliente se resumen en los siguientes Puntos</p>
-                                <p><center>• Administrar la interfaz de usuario.</center></p>
-                                <p><center>• Interactuar con el usuario.</center></p>
-                                <p><center>• Generar requerimientos de bases de datos.</center></p>
-                                <p><center>• Formatear resultados.</center></p>
+                            <p></p>
+
                         </div>
                     </div>
+                    <ul class="meta bottom">
+                            <li class="cat post-tags"><a
+                                    href="index.php">Inicio</a>,
+                            </li>
+                        </ul>
                 </article>
 
 
