@@ -171,12 +171,57 @@
                         <h2 class="entry-title">
                             <a 
                                title="proceso de diagramación de componentes de la arquitectura Cliente/servidor">
-                               proceso de diagramación de componentes de la arquitectura Cliente/servidor </a>
+                               Componentes de la estructura de cliente servidor </a>
                         </h2>
                         <div class="post-content">
-                            <p></p>
+                            <p><center>El cliente</center>
+                            Es uno de los elementos más importantes del todo el sistema. Permite activar los procesos 
+                            y lleva a cabo las diversas informaciones que solicita. El proceso como tal determina al 
+                            cliente con el demandante del servicio. Representado por un ordenador por una aplicación de 
+                            tipo informática. Este cliente siempre está solicitando datos relacionados con algún 
+                            servicio proveniente de la red.</p>
+
+                            <p><center>La Red</center>
+                            En este caso la red está representada por un conjunto de clientes, servidores y diversas bases 
+                            de datos, que al unirse conforman un grupo  sólido y específico. Con la Red el sistema requiere 
+                            de protocolos específicos para ingresar a los datos o procesos por parte del cliente</p>
+
+                            <p><center>El servidor</center>
+                            Ya habíamos visto la función y que representa en el servidor. Por lo que es un componente 
+                            fundamental para poder acceder a los recursos necesarios. El servidor es un proveedor de 
+                            servicios que puede estar conformado por un equipo de computación específico o un recurso 
+                            físico. Tiene la capacidad de recibir procesar y enviar los recursos que el cliente 
+                            necesite</p>
+                            
+                            <p><center>El protocolo</center>
+                            Se considera el conjunto de reglas y procedimientos normados que puedan agilizar el 
+                            flujo de información en todo el sistema de la red. Sin este protocolo las conexiones 
+                            serían terrible y los clientes pudieran presentar retraso en sus procesos. El Protocolo 
+                            ayuda a mejorar la transmisión llevando de forma eficiente los recursos a  su destino.</p>
+
+                            <p><center>Los servicios</center>
+                            En los modelos cliente servidor representa a un grupo de datos e informaciones que intentan
+                             dar respuesta a las diversas necesidades de los clientes. El servicio puede ser de cualquier
+                             tipo. Entre los servicios se necesitan desde correos emails hasta videos musicales.
+                              En resumen es todo el universo de recursos con el que cuenta la red para ofrecer al
+                               cliente.</p>
+
+                            <p><center>La base de datos</center>
+                            Al igual que en otros sistemas de redes o archivos de recursos, la base de datos 
+                            conforma ese grupo de información diversa que se encuentra disponible en cualquier 
+                            momento.
+                            La misma siempre está ordenada y clasificada en la red. También sirve de depósito y 
+                            almacenaje de recursos. Son sitios donde el cliente tiene la opción de colocar recursos 
+                            diversos en función de la relación con la información de sus actividades.</p>
 
                         </div>
+
+                        <a title="diagrama">
+  			  				    <img width="916" height="611" src="images/diagrama.jpg"
+                                     class="attachment-desktop size-desktop" alt=""/>
+                            </a>
+
+
                     </div>
                     <ul class="meta bottom">
                             <li class="cat post-tags"><a
